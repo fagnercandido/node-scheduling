@@ -1,0 +1,23 @@
+{
+  "name": "node-scheduling",
+  "version": "1.0.0",
+  "description": "node with scheduling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnercandido/node-scheduling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnercandido/node-scheduling/issues"
+  },
+  "homepage": "https://github.com/fagnercandido/node-scheduling#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
